@@ -937,69 +937,76 @@
 			}
  ],
 		"dependency_cache" : [ 			{
+				"name" : "Chikurin_MakotoSan.wav",
+				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/MakotoSan_AudioReactif/MakotoSan_AudioReactif/media",
+				"patcherrelativepath" : "../media",
+				"type" : "WAVE",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "OSC-route.mxo",
 				"type" : "iLaX"
 			}
 , 			{
 				"name" : "audioAnalysers~.maxpat",
-				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
-				"patcherrelativepath" : "../../../Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
+				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/MakotoSan_AudioReactif/MakotoSan_AudioReactif/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "p_AnimationPresets.maxpat",
-				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
-				"patcherrelativepath" : "../../../Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
+				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/MakotoSan_AudioReactif/MakotoSan_AudioReactif/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "p_AudioAnalyserV4.maxpat",
-				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
-				"patcherrelativepath" : "../../../Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
+				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/MakotoSan_AudioReactif/MakotoSan_AudioReactif/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "p_AudioInputManager.maxpat",
-				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
-				"patcherrelativepath" : "../../../Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
+				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/MakotoSan_AudioReactif/MakotoSan_AudioReactif/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "p_OscMasterClock.maxpat",
-				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
-				"patcherrelativepath" : "../../../Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
+				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/MakotoSan_AudioReactif/MakotoSan_AudioReactif/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "p_OscOutputs.maxpat",
-				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
-				"patcherrelativepath" : "../../../Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
+				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/MakotoSan_AudioReactif/MakotoSan_AudioReactif/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "p_OscRemoteControl.maxpat",
-				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
-				"patcherrelativepath" : "../../../Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
+				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/MakotoSan_AudioReactif/MakotoSan_AudioReactif/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "p_localProtoSend.maxpat",
-				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
-				"patcherrelativepath" : "../../../Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
+				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/MakotoSan_AudioReactif/MakotoSan_AudioReactif/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "p_setOscAddresses.maxpat",
-				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
-				"patcherrelativepath" : "../../../Ayaghma_AudioReactif/Ayaghma_AudioReactif/patchers",
+				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/MakotoSan_AudioReactif/MakotoSan_AudioReactif/patchers",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
