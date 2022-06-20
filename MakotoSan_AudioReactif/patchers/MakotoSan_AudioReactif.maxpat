@@ -185,7 +185,7 @@
 					"offset" : [ 0.0, 0.0 ],
 					"patching_rect" : [ 853.521137952804565, 730.755095481872559, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 820.788401007652283, 519.587539911270142, 488.904128522311339, 447.455473393201828 ],
+					"presentation_rect" : [ 697.384160399436951, 516.587539911270142, 1019.781320065890441, 1033.683539837598801 ],
 					"viewvisibility" : 1
 				}
 
@@ -937,13 +937,6 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "Chikurin_MakotoSan.wav",
-				"bootpath" : "~/Documents/Master_ICS/Stage_JEUDI8/OffEvents/SoundDesign/MakotoSan_AudioReactif/MakotoSan_AudioReactif/media",
-				"patcherrelativepath" : "../media",
-				"type" : "WAVE",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "OSC-route.mxo",
 				"type" : "iLaX"
 			}
